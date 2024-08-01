@@ -20,3 +20,4 @@ import './commands'
 // require('./commands')
 import 'cypress-xpath'
 import 'gerador-validador-cpf'
+import 'cypress-mochawesome-reporter/register'
